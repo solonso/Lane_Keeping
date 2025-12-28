@@ -1,5 +1,5 @@
-# Name: Solomon Chibuzo Nwafor 
-# Neptun ID: UITK8W
+# Contributor: Solomon Chibuzo Nwafor 
+
 # LKA - Line Keep Assist Implementation
 
 Classical Computer Vision approach to Lane Keep Assist (LKA) for ADAS using video analysis.
@@ -10,6 +10,11 @@ This implementation detects left and right lane boundaries in driving videos usi
 - Binary indicators for left/right lane detection
 - Lane curves (polylines) overlaid on the road
 - Per-frame confidence scores and lateral offset
+
+<p align="center">
+  <img src="lane.gif" alt="Robotics Integration Demo" 
+  width="600">
+</p>
 
 ## Project Structure
 
